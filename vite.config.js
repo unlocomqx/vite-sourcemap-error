@@ -13,9 +13,7 @@ module.exports = defineConfig(({_, mode}) => {
       }
     },
     plugins: [
-      svelte({
-        sourcemap: false,
-      }),
+      svelte(),
     ],
     build: {
       minify: isProduction
