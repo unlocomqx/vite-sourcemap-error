@@ -5,7 +5,7 @@ npm i
 npm run dev
 ```
 
-Error
+Error on page load http://localhost:3000/
 
 ```
 [vite] Internal server error: ENOENT: no such file or directory,
